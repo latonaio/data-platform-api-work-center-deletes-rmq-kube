@@ -1,0 +1,1 @@
+# data-platform-api-work-center-deletes-rmq-kube
